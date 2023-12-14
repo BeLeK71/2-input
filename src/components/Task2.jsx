@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./app.css"; // Импорт файла стилей
+import "./app.css";
 
 const Task2 = () => {
   const [isTrue, setIsTrue] = useState(true);
