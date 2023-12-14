@@ -1,0 +1,20 @@
+.square {
+  margin-top: 5%;
+  width: 100px; /* Можете подстроить размер по вашему усмотрению */
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.square.true {
+  background-color: green;
+}
+
+.square.false {
+  background-color: red;
+}
+
+#true {
+  margin-top: 1%;
+}
